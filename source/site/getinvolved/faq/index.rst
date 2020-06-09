@@ -65,6 +65,11 @@ It is of course really welcome if would like to add a note saying that the map w
 
 .. note::
     Do not say ©QGIS as QGIS does not hold copyrights on your work.
+   
+Can I use a map created with QGIS for commercial purpose?
+---------------------------------------------------------
+
+Yes, you can. There is no requirement to mention QGIS for maps produced with it. See the previous question for how to mention QGIS if you'd like to do so
 
 Can I open ECW files with QGIS?
 -------------------------------
